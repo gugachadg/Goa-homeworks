@@ -1,0 +1,230 @@
+/* ireland flag */
+
+
+/* .flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+.flag > div {
+    flex: 1;
+}
+
+.green {
+    background-color: green;
+}
+
+.white {
+    background-color: white;
+}
+
+.orange {
+    background-color: orange;
+} */
+
+
+/* bolivia flag */
+
+/* .flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    position: relative;
+}
+
+.flag > div {
+    flex: 1;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.gerb {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+} */
+
+
+
+
+
+
+/* canada flag */
+
+/* 
+.flag.canada {
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+.flag.canada > div {
+    flex: 1;
+}
+
+.flag.canada .red {
+    background-color: red;
+}
+
+.flag.canada .white {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flag.canada .maple-leaf {
+    width: 50px;
+    height: auto;
+}
+ */
+
+
+
+
+
+
+
+
+ /* austria flag */
+
+
+
+
+/* 
+
+.flag.austria {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.flag.austria > div {
+    flex: 1;
+}
+
+.flag.austria .red {
+    background-color: red;
+}
+
+.flag.austria .white {
+    background-color: white;
+} */
+
+
+
+
+
+
+
+
+
+
+/* georgian flag */
+
+
+/* 
+.flag.georgia {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    position: relative;
+}
+
+.flag.georgia .cross {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 60%;
+    height: 20%;
+    background-color: red;
+    transform: translate(-50%, -50%);
+}
+
+.flag.georgia .cross::before,
+.flag.georgia .cross::after {
+    content: '';
+    position: absolute;
+    background-color: red;
+}
+
+.flag.georgia .cross::before {
+    width: 20%;
+    height: 100%;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.flag.georgia .cross::after {
+    width: 100%;
+    height: 20%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.flag.georgia .small-cross {
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    background-color: red;
+}
+
+.flag.georgia .small-cross::before,
+.flag.georgia .small-cross::after {
+    content: '';
+    position: absolute;
+    background-color: red;
+}
+
+.flag.georgia .small-cross::before {
+    width: 40%;
+    height: 100%;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.flag.georgia .small-cross::after {
+    width: 100%;
+    height: 40%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.flag.georgia .top-left {
+    top: 20%;
+    left: 20%;
+}
+
+.flag.georgia .top-right {
+    top: 20%;
+    right: 20%;
+}
+
+.flag.georgia .bottom-left {
+    bottom: 20%;
+    left: 20%;
+}
+
+.flag.georgia .bottom-right {
+    bottom: 20%;
+    right: 20%;
+} */

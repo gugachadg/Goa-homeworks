@@ -1,0 +1,120 @@
+/* armenian flag  /
+
+.armenian-flag {
+    width: 300px;
+    height: 200px;
+}
+
+.armenian-flag div {
+    width: 100%;
+    height: 33.33%;
+}
+
+.armenian-flag .red {
+    background-color: #D90012;
+}
+
+.armenian-flag .blue {
+    background-color: #0033A0;
+}
+
+.armenian-flag .orange {
+    background-color: #F2A800;
+}
+
+/  ireland flag  /
+
+.ireland-flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+.ireland-flag div {
+    width: 33.33%;
+    height: 100%;
+}
+
+.ireland-flag .green {
+    background-color: #169B62;
+}
+
+.ireland-flag .white {
+    background-color: #FFFFFF;
+}
+
+.ireland-flag .orange {
+    background-color: #FF883E;
+}
+
+/  belgium flag  /
+
+.belgium-flag {
+    width: 300px;
+    height: 200px;
+    display: flex;
+}
+
+.belgium-flag div {
+    width: 33.33%;
+    height: 100%;
+}
+
+.belgium-flag .black {
+    background-color: #000000;
+}
+
+.belgium-flag .yellow {
+    background-color: #FFD700;
+}
+
+.belgium-flag .red {
+    background-color: #FF0000;
+}
+
+/  germany flag  /
+
+.germany-flag {
+    width: 300px;
+    height: 200px;
+}
+
+.germany-flag div {
+    width: 100%;
+    height: 33.33%;
+}
+
+.germany-flag .black {
+    background-color: #000000;
+}
+
+.germany-flag .red {
+    background-color: #DD0000;
+}
+
+.germany-flag .yellow {
+    background-color: #FFCE00;
+}
+
+
+/  ukraine flag */
+
+
+
+.ukraine-flag {
+    width: 300px;
+    height: 200px;
+}
+
+.ukraine-flag div {
+    width: 100%;
+    height: 50%;
+}
+
+.ukraine-flag .blue {
+    background-color: #0057B7;
+}
+
+.ukraine-flag .yellow {
+    background-color: #FFD700;
+}

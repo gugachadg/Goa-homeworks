@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.wrap-text {
+    border: 2px solid red;
+   background-color: black;
+   color: white;
+
+}
+
+.position {
+    position: relative;
+    top: 0;
+    left: 0;
+
+    height: 100px;
+    width: 100%;
+    border: 2px solid aqua;
+    background-color: hsl(180, 100%, 50%, 0.5);
+    color: red;
+
+}
+
+.text-red-bold {
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+}
